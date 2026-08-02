@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Fluent Check MVP',
-      home: const Landingpage(),
+      home: Landingpage(),
     );
   }
 }
